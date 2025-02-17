@@ -1,4 +1,4 @@
-<h2 align="left">Ik ben Skeltron die zich vooral focust op fivem-development</h2>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
